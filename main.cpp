@@ -10,7 +10,7 @@
 #include <csignal>
 
 using namespace std;
-using namespace arma;  /// // /////
+using namespace arma;  /// first commit test
 //hello
 
 extern "C" void create_descriptor_handles(int, int);
